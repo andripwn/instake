@@ -12,7 +12,7 @@
 Linux:
 
 ```sh
-$ git clone https://github.com/wayangcode/instake.git
+$ git clone https://github.com/andripwn/instake.git
 $ cd instake
 $ bash index.bash
 ```
